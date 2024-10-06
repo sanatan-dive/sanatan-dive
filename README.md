@@ -1,5 +1,9 @@
 <h2 align="left">Hi 👋! My name is Sanatan Sharma and I'm a Undergrad student</h2>
-<p align = "center">I'm a Computer Science and Engineering student  passionate about coding, problem-solving, and building projects. I enjoy working with C++, JavaScript, and its framework. You'll find projects here related to data structures, algorithms, and web development—from linked lists and stacks to interactive web applications.
+<p align = "center">I'm a Computer Science and Engineering student  passionate about coding, problem-solving, and building projects. I enjoy working with C++, JavaScript, and Linux Environements. You'll find projects here related to data structures, algorithms, and web development— from linked lists and stacks to interactive web applications.
+  <br>
+  <br>
+  Avid reader, film enthusiast, and always striving for personal and professional growth
+  <br>
   <br>
 I use arch btw 🤓
 </p>
