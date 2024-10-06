@@ -50,6 +50,6 @@ I use arch btw 🤓
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/sanatan-dive/sanatan-dive/refs/heads/main/snake.yml" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/sanatan-dive/sanatan-dive/refs/heads/main/.github/workflows/snake.yml" alt="Snake animation" />
 
 ###
