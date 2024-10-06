@@ -29,20 +29,34 @@ I use arch btw 🤓
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="c++ logo"  />
+    <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
+
 </div>
 <br>
 
 
 <div align="left">
- <a href="https://x.com/Sanatan_dive" target="_blank"> <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="X logo" /></a>
-  <a href="https://leetcode.com/Sanatan_dive/" target="_blank"> <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LeetCode logo" /></a>
-<!--  <a href="https://x.com/Sanatan_dive" target="_blank"> <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo" /></a> -->
- <a href="https://www.linkedin.com/in/sanatan-sharma-637605266/" target="_blank"> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" /></a>
- <a href="https://letterboxd.com/Sanatan_dive/" target="_blank"> <img src="https://img.shields.io/static/v1?message=Letterboxd&logo=letterboxd&label=&color=00D735&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="letterboxd logo" /></a>
- <a href="https://www.goodreads.com/user/show/157756772-sanatansharma" target="_blank"> <img src="https://img.shields.io/static/v1?message=GoodReads&logo=goodreads&label=&color=382110&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="goodreads logo" />
+<a href="https://x.com/Sanatan_dive" target="_blank"> 
+  <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="X logo" />
 </a>
+
+<a href="https://leetcode.com/Sanatan_dive/" target="_blank"> 
+  <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LeetCode logo" />
+</a>
+
+<a href="https://www.linkedin.com/in/sanatan-sharma-637605266/" target="_blank"> 
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+</a>
+
+<a href="https://letterboxd.com/Sanatan_dive/" target="_blank"> 
+  <img src="https://img.shields.io/static/v1?message=Letterboxd&logo=letterboxd&label=&color=00D735&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="letterboxd logo" />
+</a>
+
+<a href="https://www.goodreads.com/user/show/157756772-sanatansharma" target="_blank"> 
+  <img src="https://img.shields.io/static/v1?message=GoodReads&logo=goodreads&label=&color=382110&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="goodreads logo" />
+</a>
+
 </div>
 
 
