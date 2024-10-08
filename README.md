@@ -62,11 +62,18 @@ I use arch btw 🤓
 </a>
 
 </div>
+<hr>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/charankamal20/charankamal20/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/charankamal20/charankamal20/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/charankamal20/charankamal20/output/github-contribution-grid-snake-dark.svg">
+</picture>
 
 
 <hr>
-[![An image of @sanatandive's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sanatandive)](https://holopin.io/@sanatandive)
 
+[![An image of @coderjap's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sanatandive)](https://holopin.io/@sanatandive)
 <br clear="both">
 
 
