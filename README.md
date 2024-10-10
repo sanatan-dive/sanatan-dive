@@ -19,10 +19,13 @@ I use arch btw 🤓
 
 <hr>
 
+
+
+
+<h1 align="left">🛠️ Tech Stack</h1>
 <img align="right" height="200" width = "200" src="https://media.tenor.com/S61VCO73mOAAAAAj/linux-tux.gif"  />
 
-###
-# 🛠️ Tech Stack
+
 
 <div align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
@@ -41,6 +44,7 @@ I use arch btw 🤓
 <br>
 <hr>
 
+# 🔗 Links
 
 <div align="left">
 <a href="https://x.com/Sanatan_dive" target="_blank"> 
