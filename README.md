@@ -23,7 +23,7 @@ I use arch btw 🤓
 
 
 <h1 align="left">🛠️ Tech Stack</h1>
-<img align="right" height="200" width = "200" src="https://media.tenor.com/S61VCO73mOAAAAAj/linux-tux.gif"  />
+<img align="right" height="160" width = "160" src="https://media.tenor.com/S61VCO73mOAAAAAj/linux-tux.gif"  />
 
 
 
