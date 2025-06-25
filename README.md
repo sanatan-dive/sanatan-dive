@@ -89,7 +89,7 @@
   <!-- Web3 -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" height="30" alt="Solidity logo" />
   <img width="12" />
-<img src="https://cryptologos.cc/logos/solana-sol-logo.png?v=040" height="30" alt="Solana logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" height="30" alt="Solana logo" />
 
   <!-- OS -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="Linux logo" />
