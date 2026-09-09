@@ -1,5 +1,5 @@
 <h2 align="left">Hi 👋! My name is Sanatan Sharma and I'm a Undergrad student</h2>
-<p align = "center">I'm a Computer Science and Engineering student passionate about coding, problem-solving, and building projects. I work with C++, JavaScript, TypeScript, and Linux, creating projects in data structures, algorithms, and web development—from linked lists and stacks to interactive applications.
+<p align = "center">20 • engineer • SDE @ Stealth • ex @Amboras_inc (YC P26), @getdodgeai • 3x hackathon winner
 
 
   <br>
