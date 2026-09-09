@@ -4,7 +4,7 @@
 
   <br>
   <br>
-  Avid reader, film enthusiast, and always aiming for growth. (Arch Linux user 🤓)
+  Avid reader, film enthusiast, and always aiming for growth. 
   <br>
  
 
